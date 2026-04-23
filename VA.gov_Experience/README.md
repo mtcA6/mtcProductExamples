@@ -1,10 +1,7 @@
-# Product Experience 
-
-I've put together this page to document some of my capabilities and to talk about some of my experience.
 
 ## VA.gov - Authenticated Experience - Profile 
 
-While working on this contract vehicle, I was fortunate to collaborate with an excellent team of engineers and designer/researchers to build several features and products to better support the user experience on VA.gov. We were focused on users post authentication and specifically my team worked on the user Profile and how best to do a few things: 
+While working on the Authenticated Experience contract vehicle(s), I was fortunate to collaborate with an excellent team of engineers and designer/researchers to build several features and products to better support the user experience on VA.gov. We were focused on users post authentication and specifically my team worked on the user Profile and how best to do a few things: 
 
   1. We wanted to integrate to additional internal VA Systems in order to surface key pieces of information important to veterans
        -  This comprised the bulk of our work, we maintained a lot of connections to a slew of API's to ensure a consistent and stable experience.  
