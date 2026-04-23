@@ -1,5 +1,13 @@
 
-## VA.gov - Authenticated Experience - Profile 
+## VA.gov - Authenticated Experience - 
+
+I worked with the Authenticated Experience contract in two separate formulations, first with Agile Six as the Prime contract holder. They worked closely with Ad Hoc to bid on the work. Under the first iteration with A6 I was one of two PM's assigned to the contract and the product suite was broken down between Profile and MyVA Logged in Landing page. 
+
+Subsequently, I worked with Wilcore Technologies to bid on the work and was tagged as Key Personnel in the bid. Wilcore and Oddball bid on the work together and in this iteration I was the lead PM for the entire stack. The Auth Experience portfolio is one of the largest on VA.gov with 2 major products and 15-20 different important features. 
+
+
+## A6 Iteration
+## Profile 
 
 While working on the Authenticated Experience contract vehicle(s), I was fortunate to collaborate with an excellent team of engineers and designer/researchers to build several features and products to better support the user experience on VA.gov. We were focused on users post authentication and specifically my team worked on the user Profile and how best to do a few things: 
 
@@ -24,4 +32,8 @@ Below I’ve linked to product documentation (markdown pages or GitHub Epics) or
      - The system supporting Chapter 33 direct deposits was deprecated and replaced with a modern database with more robust security. We were given just over 60 days to disconnect from the old database and reconnect to a new set of API's integrated with the new database. This was time sensitive and highly impactful for thousands of users. Before the migration we saw roughly 5,000 updates daily to direct deposit accounts. 
 - [Contact Info Page Revisions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89505)
      - We discovered while analyzing user data a series of trends related to undeliverable mail. This work was strongly driven by the data quality issues we were seeing
+
+ ## Wilcore Iteration 
+
+ ### Examples of projects 
  
